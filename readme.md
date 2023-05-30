@@ -1,5 +1,7 @@
 This is a repro case for an issue with Knex streaming queries.
 
+The issue has been reported here: https://github.com/knex/knex/issues/5589
+
 Please follow these steps to observe the issue.
 
 Clone this repository and install dependencies:
